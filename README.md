@@ -1,6 +1,6 @@
 # Cita_MedIA
 md
-Equipo: EQ-##
+Equipo: EQ-
 ## Integrantes
 Nombre Coordinación
 Nombre Documentación
